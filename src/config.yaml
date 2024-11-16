@@ -1,22 +1,22 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
-  base: '/'
-  trailingSlash: false
+  name: iustitIA
+  site: 'https://iustitia-ia.github.io'
+  base: '/iustitia-ia.github.io/'
+  trailingSlash: true
 
   googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
 
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: iustitIA
+    template: '%s — iustitIA'
+  description: "\U0001F680 Enhance daily workflows and alleviate stress for lawyers."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: iustitIA
     images:
       - url: '~/assets/images/default.png'
         width: 1200
